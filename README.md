@@ -35,5 +35,12 @@ m = 64;
 Binario  
 En caso de trabajar con binario se debe elegir los siguientes criterios.  
 1. El valor de la semilla puede ser cualquier entero impar.  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/1.png)  
 2. El valor seleccionado de a debe ser obtenido de-acuerdo a la siguiente expresión,  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/5.png)  
 3. El valor de m puede ser 2^d, d puede ser cualquier entero.  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/6.png)  
+Luego de aplicar estos criterio tenemos nuestro programa implementado en java.  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/7.png)  
+Aqui podemos observar los resultados con los valores ingresados de.  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/8.png)  
