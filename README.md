@@ -43,7 +43,7 @@ En caso de trabajar con binario se debe elegir los siguientes criterios.
 Luego de aplicar estos criterio tenemos nuestro programa implementado en java.  
 ![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/7.png)  
 Aqui podemos observar los resultados con los valores ingresados de.  
-Xo = 15
+Xo = 15  
 t = 4  
-m = 64
+m = 64  
 ![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/8.png)  
