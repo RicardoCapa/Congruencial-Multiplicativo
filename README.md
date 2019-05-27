@@ -22,12 +22,13 @@ Para ello se deben respetar los siguiente criterios para elegir bien los valores
 ![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/2.png)  
 
 3. El valor de m puede ser 10^d. Si m = 10 y d >= 5 el periodo del generador es 5 * 10^d-2.  
-![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/3.png)  
+ 
 
 Luego de aplicar estos criterio tenemos nuestro programa implementado en java.  
-![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/4.png)  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/3.png) 
 Aqui podemos observar los resultados con los valores ingresados de.  
 Xo = 13;  
 t = 2;  
 p = 3;  
 m = 64;  
+![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/4.png)  
