@@ -32,3 +32,8 @@ t = 2;
 p = 3;  
 m = 64;  
 ![imagen](https://github.com/RicardoCapa/Congruencial-Multiplicativo/blob/master/img/4.png)  
+Binario  
+En caso de trabajar con binario se debe elegir los siguientes criterios.  
+1. El valor de la semilla puede ser cualquier entero impar.  
+2. El valor seleccionado de a debe ser obtenido de-acuerdo a la siguiente expresión,  
+3. El valor de m puede ser 2^d, d puede ser cualquier entero.  
